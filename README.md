@@ -1,7 +1,6 @@
 # IBM Bluemix Graph Data Store Code Examples
 
-Inline-style: 
-![alt text](https://github.com/Open-I-Beam/bluemix-graphdatastore/tree/master/src/main/resources/GraphDataStoreIcon.jpg "Graph Data Store Icon")
+![alt text](https://github.com/Open-I-Beam/bluemix-graphdatastore/blob/master/src/main/resources/GraphDataStoreIcon.jpg "Graph Data Store Icon")
 
 This project contains code examples for IBM's Graph Data Store service which runs in IBM Bluemix.
 
