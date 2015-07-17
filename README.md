@@ -6,7 +6,7 @@ All samples are built using maven.  Clone the repository to your local machine, 
 directories to the top level of the project and run:
 mvn clean install
 
-The examples were all built using Java 8.
+The examples were built using Java 8.
 
 ## List of examples
 1. Java REST Client
